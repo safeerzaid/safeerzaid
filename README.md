@@ -24,6 +24,18 @@ An aspiring MERN stack developer who learns by shipping, not just studying. I fo
 
 <hr>
 
+
+## 🚀 Tech Stack & Arsenal
+
+My toolkit for building scalable, modern web applications:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,ts,nextjs,threejs,tailwind&theme=dark" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/docs/public/favicon.ico" height="40" />
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" />
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="40" />
+</p>
 <!--
 **safeerzaid/safeerzaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
