@@ -1,11 +1,11 @@
 <h1 align="center">👋 Safeer Zaid ✨</h1>
 
 <p align="center">
-Vibing while learning code 💻 | Step-by-step MERN journey 🚀 | Building a better future
+Learning 📘 | Practicing 🛠️ | Improving 🚀
 </p>
 
 <p align="center">
-A beginner developer learning HTML, CSS, and JavaScript — focused on consistency, growth, and real skills.
+Focused on consistency and steady improvement.
 </p>
 
 <p align="center">
@@ -15,6 +15,15 @@ A beginner developer learning HTML, CSS, and JavaScript — focused on consisten
 <hr>
 
 <!--
+## 🔥 Code Philosophy
+
+**Iteration over perfection.**
+
+An aspiring MERN stack developer who learns by shipping, not just studying. I focus on building responsive interfaces, understanding backend systems, and improving through real-world mistakes. Progress is measured in clarity, not speed — and every commit moves the bar forward. 🟢💻
+
+
+<hr>
+
 **safeerzaid/safeerzaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
