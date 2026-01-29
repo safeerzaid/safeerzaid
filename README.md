@@ -35,16 +35,7 @@ My toolkit for building scalable, modern web applications:
   <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="40" title="Zod" />
 </p>
 
-## 📊 GitHub Stats & Grind
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safeerzaid&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safeerzaid&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeerzaid&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
 
 <!--
