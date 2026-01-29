@@ -14,7 +14,7 @@ Focused on consistency and steady improvement.
 
 <hr>
 
-<!--
+
 ## 🔥 Code Philosophy
 
 **Iteration over perfection.**
@@ -24,6 +24,7 @@ An aspiring MERN stack developer who learns by shipping, not just studying. I fo
 
 <hr>
 
+<!--
 **safeerzaid/safeerzaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
