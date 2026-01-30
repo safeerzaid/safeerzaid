@@ -8,10 +8,6 @@ Learning 📘 | Practicing 🛠️ | Improving 🚀
 Focused on consistency and steady improvement.
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80"/>
-</p>
-
 <hr>
 
 
