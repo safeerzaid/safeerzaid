@@ -20,7 +20,7 @@ An aspiring MERN stack developer who learns by shipping, not just studying. I fo
 
 <hr>
 
-## 🚀 Tech Stack & Arsenal
+## 🚀 Tech Stack
 
 My toolkit for building scalable, modern web applications:
 
