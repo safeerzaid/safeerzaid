@@ -15,7 +15,7 @@ Focused on consistency and steady improvement.
 
 **Iteration over perfection.**
 
-An aspiring MERN stack developer who learns by shipping, not just studying. I focus on building responsive interfaces, understanding backend systems, and improving through real-world mistakes. Progress is measured in clarity, not speed — and every commit moves the bar forward. 🟢💻
+An aspiring MERN stack developer who learns by shipping, not just studying. I focus on building responsive interfaces, understanding backend systems, and improving through real-world mistakes. Progress is measured in clarity, not speed  and every commit moves the bar forward. 🟢💻
 
 
 <hr>
